@@ -1,0 +1,3 @@
+[submodule "lib/superslides"]
+	path = lib/superslides
+	url = https://github.com/nicinabox/superslides.git
